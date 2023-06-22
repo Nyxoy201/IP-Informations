@@ -7,3 +7,8 @@
 - Get region
 - Get postal code
 - Get address type
+
+## How to use ?
+1. Run install.bat
+2. Open the main.py with the text editor of your choice and put your API key in line 6
+3. Run the start.bat
