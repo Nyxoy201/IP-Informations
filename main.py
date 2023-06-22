@@ -3,7 +3,7 @@ import pystyle
 from pystyle import Colors, Colorate
 
 
-API_KEY = '992a17286db132530e43b67c002d9dd0'
+API_KEY = 'YOUR_API_KEY_HERE'
 
 
 def localiser_ip(ip):
